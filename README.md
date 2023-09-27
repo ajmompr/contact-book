@@ -1,3 +1,7 @@
+# App description
+
+This is an application that allows us to store contact information for people we know
+
 # Rails Template
 
 This is a base Ruby on Rails repository configured for learning with Codespaces (and Gitpod).
