@@ -1,7 +1,7 @@
 task(:sample_contacts => :environment) do
-  if Rails.env.development?
-    Contact.destroy_all
-  end
+  # if Rails.env.development?
+  #   Contact.destroy_all
+  # end
 
   200.times do
     x = Contact.new
